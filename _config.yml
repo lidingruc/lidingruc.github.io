@@ -1,0 +1,12 @@
+# Site settings
+title: 李丁的技术博客
+email:
+description: 方便在线查阅
+baseurl:
+url:
+twitter_username:
+github_username:  lidingruc
+
+# Build settings
+markdown: kramdown
+permalink: pretty
