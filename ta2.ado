@@ -37,6 +37,7 @@ program define ta2
 * 1.1.0 Ian Watson 28oct2004 
 * Program to produce publication quality tables
 * See tabout_tutorial.pdf at www.ianwatson.com.au
+* 修改文件68行的输出地址为自己电脑中的合适的路径，然后将整个文件复制到stata安装目录的ado文件夹的t文件夹中，重启stata即可。
 
 
      version 9.2
